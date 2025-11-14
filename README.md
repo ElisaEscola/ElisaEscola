@@ -1,6 +1,6 @@
 
 # 👋 Olá, eu sou Elisabeth Martins
-<img align='center' src="https://https://github.com/ElisaEscola/ElisaEscola/blob/main/meugitzinho.png" width="215">
+<img align='center' src="meugitzinho.png" width="215">
 ## 🚀 Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com Java, Python e SQL  
