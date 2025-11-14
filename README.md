@@ -3,7 +3,7 @@
 
 <img align='center' src="meugitzinho.png" width="215">
 
- 🚀 Sobre mim
+ ## 🚀 Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com Java, Python e SQL  
 - 🌱 Atualmente aprendendo sobre desenvolvimento web com React e Node.js  
