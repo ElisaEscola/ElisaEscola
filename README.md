@@ -14,14 +14,13 @@
 - Banco de Dados: MySQL, PostgreSQL  
 - Ferramentas: Git, VS Code, Docker  
 
-## 📂 Projetos em destaque
-- [Sistema de Biblioteca](link) – CRUD completo em Java com MySQL  
-- [Aplicativo de Tarefas](link) – Frontend em React integrado a API REST  
+## 📂 Projeto em destaque
+- [Banco de dados de clientes](https://github.com/ElisaEscola/banco-de-dados-2DS/blob/main/bd-clientes.sql) – CRUD completo em Java com MySQL  
+
 
 ## 📫 Contato
-- Email: carla.silva@exemplo.com  
-- LinkedIn: [linkedin.com/in/carla-silva](link)  
-- GitHub: [github.com/carla-silva](link)  
+- Email: elisabeth.lenfers@gmail.com 
+- GitHub: [github.com/ElisaEscola](https://github.com/ElisaEscola)
 
 ---
 ✨ Este README foi pensado para **recrutadores**, destacando minhas habilidades técnicas e projetos aplicados.
